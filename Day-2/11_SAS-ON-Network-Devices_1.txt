@@ -1,0 +1,37 @@
+11_SAS ON Network Devices
+Self-Assessment Sheet
+
+1. What is a Router?
+	Router is a network device that connects multiple device whin local Area Network or different network.
+2. What is a Switch?
+	Switch is network device used for LAN and connect multiple devices. Without feature configuration.
+3. What is an Unmanaged Switch?
+	Unmanaged switch is used for basic network connectivity.
+4. What is a Managed Switch?
+	Managed switch is used for large network . and make more security and feature configuration .
+5. What is a Bridge?
+	Bridge is a path which connect and send data or packet one device to another device.
+6. What is a Patch Panel?
+	Patch Panel is hardware component used in Local Area Network to organize and manage network cables.
+7. What is a Firewall?
+	Firewall is network system which control incoming and ongoing network traffic. 
+8. What is a Hub?
+	Hub is network device which used for connect devices in small home or office this is not smart device. 
+9. What is a Cable Modem?
+	Modem is a network device which is used for home internet ,television, and landline services with a coaxial cable. ISP provide all services.
+10. What is a DSL Modem?
+DSL is a device which is connect to internet over the telephone line. 
+
+	
+11. What is ONT?
+	Optical network terminal is used for fiber-optic communication sytems.
+12. What is Network Interface Card (NIC)?
+	NIC is used for access internet from the network. And connect devices through the ethernet cable.
+13. What is a Wireless Access Point (WAP)?
+	WAP is a network device which connect all clints without ethernet cable. This device is connect with a ethernet cable and share internet in LAN. 
+14. What is a Wireless LAN Controller?
+	Wireless LAN controller is a network device used to monitor and manage wireless access points in the organization.
+15. What is a Repeater?
+	Repeater are used to improve signal quality and ensure data can be transmitted without loss .
+
+
