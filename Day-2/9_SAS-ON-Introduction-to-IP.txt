@@ -1,0 +1,35 @@
+9_SAS On Introduction to IP
+Self -Assessment Sheet
+
+1. What is Internet Protocol (IP)?
+Set of rules which govern follow the instructions.	
+2. What is the meaning of Encapsulation?
+	A data is in the packet format 
+3. What does TCP stand for?
+	Transmission Control Protocol
+4. How does TCP (Transmission Control Protocol) work?
+send file to one client to another client through the internet.	
+5. What does UDP stand for?
+	User datagram protocol 
+6. How does UDP (User Datagram Protocol) work?
+Send data not sure delivery to other side. UDP is Unreliable delivery Protocol. 
+7. What is OSI Layer 4?
+Transport layer
+8. What does OSI Layer 4 - Transport Layer do?
+TCP And UDP Transport Layer 4
+9. What is Multiplexing?
+Use many different application at the same time.
+10. What is a port?
+Post is a particular address which is used for send and receive data client to server or server to client.
+11. What is a Port Number?
+TCP/21 SSH/ TCP22
+
+12. What does IPv4 Socket consist of?
+13. What are Non-Ephemeral Ports?
+Permanent Port Number 0 through 1023
+14. What are Ephemeral Ports?
+Temporary Port Number 1024 through 65535
+15. What is Data Transport Analogy?
+Data is Transmitted through the network using various protocol to ensure reaches without errors.
+16. What is Network Topology?
+Topology is technologies which all computer connected to each other with server.
