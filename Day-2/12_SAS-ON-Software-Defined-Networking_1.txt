@@ -1,0 +1,26 @@
+
+12_SAS ON Software Defined Networking
+Self-Assessment Sheet
+
+1. What is Software Defined Networking (SDN)?
+	SDN is software base platform which is used in the cloud.
+2. What are Computer Networking Planes?
+Computer networking planes refer to the different function components that operate together to enable communication and data exchange in a network.	
+3. What is Data Plane?
+	Process the network frames and packets
+4. What is Control Plane?
+	Manage the action of the data plane
+5. What is Management Plane?
+	Configure and manage the devices.
+6. What is Software Defined Networking Controller (SDN Controller)?
+SDN controller os a centralized software component that acts as the brain of the SDN network.
+7. What is Distributed Control Planes?
+A Distributed control planes is an architecture in computer networking where the control plane function are distributed across multiple network devices.	
+8. What is Controller Based Networking?
+Controller based networking also knows as centralized control networking 	
+9. What is a Routed Port?
+	
+10. What is OpenFlow?
+Openflow is a communication protocol and a key component of the software-defined Networking.
+
+
