@@ -1,0 +1,35 @@
+
+
+16_SAS On Assigning IP Addresses
+Self-Assessment Sheet
+1. How to assign IPv4 IP addresses for Private IP?
+2. What is the process of DHCP (Dynamic Host Configuration Protocol)?
+
+DORA (Discover Offer Request Acknowledgement)
+3. What is the result of DHCP (Dynamic Host Configuration Protocol)?
+DHCP is the automatic assignment of IP addresses and other network configuration parameters to device on a network .
+4. Features of Static IP address?
+A static IP address remains constant and does not change over time .
+5. Features of Dynamic IP address?
+Dynamic IP address are automatically assigned to devices by a DHCP server.
+6. What is Automatic Private IP Address (APIPA)?
+Link local address
+7. What is unicast addresses?
+A unicast address is a type of network address used in IP communications. Sent data single sender.
+8. What is multicast addresses?
+Send data packets to a specific group of the device that have joined a multicast group.
+9. What is anycast addresses?
+In anycast communication ,multiple device 
+10. What is BootP?
+Bootp is used to automatically assign Ip addresses and other network configuration parameters to diskless devise during the boot process.
+
+
+
+
+
+
+
+
+
+
+
