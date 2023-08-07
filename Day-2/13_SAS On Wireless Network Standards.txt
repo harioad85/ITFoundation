@@ -1,0 +1,43 @@
+
+13_SAS On Wireless Network Standards
+Self-Assessment Sheet
+
+1. What is 802.11a speed?
+54 megabits p/s	
+2. What is 802.11a Frequency & range?
+5 GHz 	
+3. What are some other features of 802.11a?
+High frequency is absorbed by object in the way 	
+4. What is 802.11b Speed?
+11 megabits per sec	
+5. What is 802.11b Frequency & range?
+2.4v GHz 	
+6. What are some other features of 802.11b?
+Less absorption problems	
+7. What is 802.11g Speed?
+54 bits per second mega	
+8. What is 802.11g Frequency & range?
+54 megabits per second 	
+9. What are some other features of 802.11g?
+Backwords-comatible with 802.11b	
+10. What is 802.11n Speed?
+5 GHz 	
+11. What is 802.11n Frequency & range?
+600 MHz per second 
+	
+12. What are some other features of 802.11n?
+MIMO 	
+13. What is 802.11ac Speed?
+5 GHz 	
+14. What is 802.11ac Frequency & range?
+160 MHz	
+15. What is 802.11ax Speed?
+5 GHz	
+16. What is 802.11ax Frequency & range?
+160 MHz	
+17. What is RFID?
+Radio Frequency Identification	
+18. How does RFID work?
+Its everywhere access badges , anything that needs to be tracked 	
+
+
