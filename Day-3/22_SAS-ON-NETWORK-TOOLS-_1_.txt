@@ -1,0 +1,22 @@
+22_SAS ON NETWORK TOOLS
+
+Q1. What is cable crimping?
+A. Pinch connector into the cable  
+
+Q2. What is a modular connector?
+RJ45 Connector
+Q3. What is a wifi analyzer?
+A. wireless network are incredibly easy to monitor 
+
+Q4. What is a tone generator and probe?
+A. tone generator is an analog sound on the wire and probe is the hear though the small speaker 
+
+Q5. What is a punch down tool?
+A. punch down tool is to test in punch wire block 
+
+Q6. What are cable testers?
+A. cable tester is the device which is used for check connection both side 
+
+Q7. What is a loopback plug?
+A. fooling your application that is not cross over cable 
+
