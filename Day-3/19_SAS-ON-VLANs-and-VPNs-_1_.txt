@@ -1,0 +1,47 @@
+19_SAS ON VLANs and VPNs
+Self-Assessment Sheet
+
+* What is a LAN?
+Local Area Network is small network which connect client to server in office.
+* Why might we want to segment a network into smaller pieces?
+Someone want to use red network they can  used red or someone want to use blue network they can use blue network.
+* What are the inefficiencies of using multiple switches for a LAN?
+More costly device. and more hard to solve problem .
+* What is VLAN?
+Vlan is group of device in the same broadcast domain.
+
+* How does VLAN solve the inefficiencies of using multiple switches?
+Lower cast 
+* How can we make a LAN more efficient and cost-effective?
+Used one switch Instead of purchase tree separate switch 
+* How does VLAN provide separation between different networks?
+They have different port for deferent network .
+* What are the advantages of using VLAN over multiple switches?
+Mange easly and cast lower.
+* How does using a single switch with VLANs help to manage and lower costs for a LAN?
+We can manage in one switch all network like as vlan switch.
+* What is a VPN and how does it work?
+Virtual private network .encrypted private data traversing a public network
+
+* Everything sent over a VPN connection is automatically encrypted, making it unreadable if intercepted by anyone in the middle.
+
+* What does a VPN look like on the desktop of an operating system?
+
+* The user can connect and disconnect from the VPN using this interface and may also have options to configure the VPN connection settings?
+
+* Are VPNs typically hardware or software-based?
+Specialized Encrypographic of hardware and software might be running in the server 
+
+
+* What is the advantage of using a VPN in a coffee shop?
+Vpn concentrator received  encrypted data transfer to decrypted .
+
+* How does the VPN concentrator handle incoming and outgoing data?
+* Can VPN software be installed on operating systems?
+* Vpn concentrator received  encrypted data transfer to decrypted .
+
+* What is a VPN concentrator?
+* Vpn concentrator received  encrypted data transfer to decrypted .
+* 
+
+
