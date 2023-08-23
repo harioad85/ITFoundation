@@ -1,0 +1,92 @@
+21_SAS ON NETWORK TYPES
+
+1. What is a LAN?
+LAN is a Local Area network which connect client to server in home or office.
+
+2. What are the typical network connections for a LAN?
+Typical connection is used in office or home.
+
+3.  \What is a WAN?
+Wide Area Network
+4. Why are the speeds slower on a WAN compared to LAN?
+Ethernet is more faster then 802.1wireless network
+
+5. What are some examples of technologies used in a WAN?
+Point to point serial and MPLS
+
+6. How are WANs connected?
+Fiber cable connected to the ground or non-terrestrial or satellite 
+
+7. What is a PAN?
+Personal Area Network
+
+8. What are some examples of technologies used in a PAN?
+Bluetooth , Ear pot , IR , NFC
+
+9. What is one of the most common ways to connect a personal area network?
+Mobile phone , wireless headset
+
+10. What type of telemetry can be acquired using a personal area network?
+Health
+
+11. What is a Metropolitan Area Network (MAN)?
+MAN is Meddle area network smaller then WAN network
+
+12. How does the distance of a MAN compare to that of a LAN and WAN?
+In city used MAN networks 
+
+13. What is the most common topology for connecting sites in a MAN today?
+Metro Ethernet 
+
+14. What type of organizations tend to use Metropolitan Area Networks?
+Government ownership
+
+15. What is a Storage Area Network (SAN)?
+San is storage, block level access , very efficient reading and writing .
+
+16. How is data accessed on a SAN?
+SAN data is accessed through specialized hardware and protocol 
+
+17. What is the typical bandwidth requirement for a SAN?
+18. May use isolated network and high speed network technology
+
+
+19. Are SANs isolated on their own networks?
+May use isolated 
+
+20. What is a Wireless Local Area Network (WLAN)?
+WLAN is used inside the building for client access internet without ethernet 
+
+21. What is the range of a WLAN?
+Downtown or large campus 
+
+22. How can the size of a WLAN be extended?
+Expend coverage with additional access point 
+
+
+23. How do WLANs differ from other wireless networks?
+WLAN is used in building ,or office , WIDE AREA NETWORK is used in cell phone like city to city 
+
+Section -B  Q&A Network Types
+
+Q1. What is a LAN?
+
+A.
+
+Q2. What is a WAN network?
+
+A. 
+
+Q3. What is a PAN network?
+A. 
+
+Q4. What is MAN network?
+A. 
+
+Q5. What is a SAN network?
+A. 
+
+Q6. What is WLAN network?
+A. 
+
+
