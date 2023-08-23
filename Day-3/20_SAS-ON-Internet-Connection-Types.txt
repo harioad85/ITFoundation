@@ -1,0 +1,99 @@
+20_SAS ON Internet Connection Types
+
+1. What is satellite networking?
+Communication to the satellite 
+2. How does the cost of satellite connectivity compare to other forms of internet connectivity?
+Satellite is More expensive then industrial networking.
+
+
+3. What are typical speeds for satellite internet?
+50 Mbit/s
+4. What are some common uses for satellite internet?
+50 Mbit/s down 3 Mbit/sup or common
+
+5. What is latency when communicating with satellites in space?
+250 ms up 250 ms down 
+
+6. How does satellite internet compare to terrestrial internet when it comes to latency?
+Wisp is used for ground level internet services 
+7. What is a newer type of satellite network?
+
+Starlink is new satellite network.
+
+8. What is the latency time advertised by Starlink?
+
+40 ms and is working 20ms 
+
+9. What frequency range do satellite connections operate in?
+2 GHz 
+10. What is the cause of rain fade when using a satellite connection?
+Line of sight rain fade.
+11. What is the advantage of fiber optic links for internet connections?
+Very large amount of data send very short period of time.
+12. Why is fiber optics more expensive than other internet connections?
+Copper cable 
+13. How is fiber optics used in enterprise networks?
+Transmit data and to access to networks and internet
+14. How does running fiber optics to a home or business improve bandwidth?
+Cable Broadband 
+15. What is the method of communication used by cable broadband?
+DOCSIS (data over cable service interface specification)
+16. How does cable broadband transmit video, voice, and data?
+High speed networking 
+17. Who might provide cable broadband service?
+ISP provide cable for service
+18. What is the standard for sending data over cable networks?
+DOCSIS
+19. What are the typical speeds of DOCSIS networks?
+50mbits through 1000 plus mbits
+20. Do you need to bring additional cables or services into your home for DOCSIS?
+No 
+21. What is the technology that uses existing copper in a home?
+DSL
+22. What is the difference between the speed of download and upload on DSL?
+Download speed is faster than the upload speed 
+23. What are the typical speeds of DSL networks?
+200 Mbits/s Downstream and 20 Mbits for upstream.
+
+24. What is the limitation of DSL in terms of distance?
+10,000
+
+25. What type of networks are commonly used for internet connectivity when away from home or office?
+Cellular network
+
+26. How is internet connectivity provided through cellular networks?
+
+ Antenna coverage a cell with certain frequency 
+27. What is tethering?
+
+connect with USB or wireless router for share internet.
+28. What is a hotspot?
+Share the internet to the other device
+
+29. What is a WISP?
+Wireless internet services provider 
+
+
+30. In what areas are WISPs commonly found?
+       Rural or remote location for internet access for everyone 
+
+
+31. What are the typical speeds of wireless networks provided by WISPs?
+
+         5G  home internet speed. And 10 to 1000 megabits ps outside  of antenna 
+
+Section B
+
+Q1. What Is Satellite Internet?
+A. 
+Q2. What is fiber optic internet?
+A. 
+Q3. What is broadband internet?
+A. 
+Q4. What is DSL?
+A.
+Q5. What is a cellular network?
+A. 
+Q6. What is wisp internet?
+A. 
+
