@@ -1,0 +1,48 @@
+24_SAS_Optical Fiber
+Self-Assessment Sheet
+
+Q1. What are the benefits of using ethernet over optical fiber as opposed to twisted pair copper cabling? 
+Ans: transmission by light 
+
+Q2. What do you mean by transmission by light?
+Ans. Fiber communication
+
+Q3. Another characteristic of fiber optic communication is because we're sending light signals, there's no ______________.
+Ans. Radio frequencies
+
+Q4.What is the advantage of using fiber optics for communication? 
+Ans: high speed data transmission 
+
+Q5. Radio frequencies tend to have a larger distance than fiber optics. (T/F)
+Ans. False
+
+Q6. What if there's any radio frequencies in your immediate area, then what is the impact on Fiber optics?
+Ans. No impact on the signal going across the fiber optic 
+
+Q7. What does the fiber optic connection look like? 
+Ans: plugs or snap in
+
+Q8. What is the purpose of the buffer coating in a fiber optic cable? 
+Ans: protecting the fiber from its intended area
+
+Q9. What is the purpose of the cladding surrounding the core in fiber optics? 
+Ans: provide the strength and durability to the optical fiber cable 
+
+Q10. What is usually found at the end of a fiber optic connection? 
+Ans: fiber node tail
+
+Q11. What are two broad categories of fiber optics?
+Ans. Single mode and multimode .
+
+Q12. What type of fiber optic cable is commonly used for large range communication? Ans: single mode 100km
+
+Q13. Each networking standard has its own set of maximum distances that you can use, depending on what type of____________you're using.
+Ans. Core cabling 
+
+Q14. What type of light source is commonly used with multi-mode fiber? 
+Ans: led
+
+Q15. What type of fiber optic cable is commonly used for short range communication? 
+Ans. Multimode 
+
+
