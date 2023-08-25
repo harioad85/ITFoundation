@@ -1,0 +1,108 @@
+23_SAS_Network Cables
+Self-Assessment Sheet
+
+Q1. What type of cable is commonly used for ethernet networks? 
+Ans: twisted pair copper cable 
+
+Q2. What does an ethernet cable look like inside? 
+Ans: four pair cable 
+
+Q3. What is the purpose of twisting the wires in a pair? 
+Ans: keeps a signal wire constantly moving away from the interface.
+
+Q4. What is the purpose of having two cables? 
+Ans: two cable identify a deferent signals 
+
+Q5. Why are the four pairs of wires different?
+Ans. Each wire have a deferent signals 
+
+Q6. What is twisted pair cabling?
+Ans: twisted pair cabling is used for ethernet network to transmission data in a network .
+
+Q7. : How many different types of twisted pair cabling are there? 
+Ans: four twisted pairs inside the cable 
+
+Q8. What do we refer to the different types of twisted pair cables as? 
+Ans: they have deferent type of category of twisted cable like as cat5 cat6.
+
+Q9. What is 1000BASE-T? 
+Ans: cat5 
+
+Q10. : What is the maximum distance of 1000BASE-T? 
+Ans: 100 meters
+
+Q11. What type of cable is used for 1000BASE-T? 
+Ans: cat5 and cat5A
+
+Q12. What is 10GBASE-T? 
+Ans: cat6
+
+
+Q13. What does the "E" stand for in Category 5e? 
+Ans: enhanced 
+
+Q14. What type of cabling is available to purchase today? 
+Ans: cat5a 
+
+Q15. What type of cabling is commonly used in existing network infrastructures? 
+Ans: cat6A
+
+Q16. What type of cabling does 1000BASE-T support? 
+Ans: cat5
+
+Q17. Is there an augmented version of category 6? 
+Ans: cat6A
+
+Q18. What type of cable is commonly used with cable modem networks? 
+Ans: coaxial cable
+
+Q19. What is the conductor of a coaxial cable? 
+Ans: wire conductor cable 
+
+Q20. What is the most commonly used type of coax cable? 
+Ans: home internet or telephone line and video for used 
+
+Q21. What is the construction of a coax cable? 
+Ans: coaxial cable is use a center conductor to transmit electrical signals.
+
+Q22. What is the plenum? 
+Ans: worm air return to the share space that is plenum.
+
+Q23. What is the purpose of the plenum?
+Ans: bringing in distributing and removing air.
+
+Q24. What type of cable should be used in a shared plenum area? 
+Ans: PVC (Polyvinyl chloride )
+
+Q25. What is the jacket of an ethernet cable typically made of? 
+Ans: FEP(Fluorinated Ethylene Polymer) or low smoker (PVC)
+
+
+Q26. What type of cable is usually used for cable runs? 
+Ans: Twisted pair 
+
+Q27. What is STP?
+Ans: shielded twisted pair
+
+Q28. What type of writing is found on the outside of an ethernet cable? 
+Ans: STP and UTP
+
+Q29. What do the abbreviations stand for? 
+Ans: u-unshielded f-foil shielding  s-braided shielding.
+
+Q30. What does S/FTP stand for? 
+Ans: shielded foiled twisted pair 
+
+Q31. What does F/UTP stand for? 
+Ans: foil unshielded twisted pair 
+
+Q32. What type of cable is used for direct burial? 
+Ans: STP
+
+Q33. What is used to waterproof the cables? 
+Ans: SFTP
+
+Q34. What purpose does the shielding serve? 
+Ans: provide protection from elements .
+
+
