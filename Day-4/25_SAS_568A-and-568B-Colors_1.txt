@@ -1,0 +1,51 @@
+25_SAS_568A and 568B Colors
+Self-Assessment Sheet
+
+Q1. What are the international standards for cabling? 
+Ans: iso/IEC 11801 cabling standard 
+
+
+Q2. The TIA standard for cabling is the _________standard, which is the ___________________Standard.
+Ans. ANSI/TIA 568 and commercial building .
+
+Q3. What does TIA stand for?
+Ans. Telecommunication industry Association 
+
+Q4. What does the TIA 568 standard cover? 
+Ans: commercial building 
+
+Q5. What are the two standards for 8P8C connectors? 
+Ans: T568A and T568B
+
+Q6. What are 8P8C connectors?
+Ans. Two different connectors T568A and T568B
+
+Q7. What is the 568A coloring scheme associated with? 
+Ans: Horizontal cabling 
+
+Q8. What is the difference between the 568A and the 568B color standards? 
+Ans: same color scheme in ethernet cabling for send and receiving data 
+
+Q9. : What color scheme do ethernet crossover cables use? 
+Ans: A and B pair for ethernet crossover cable 
+
+Q10. What do the 568A and 568B standards specify? 
+Ans. Wiring eight position RJ45 modular plugs
+
+Q11. What is the difference between T568A and T568B? 
+Ans: orange and green pair are interchanged 
+
+
+
+Q12. How are pins 1 and 2 different between the 568A and 568B standards? 
+Ans: green and orange pairs
+
+Q13. What is the best way to tell what standard is in use for an ethernet cable? 
+Ans: stp and udp conductor type and conductor size 
+
+Q14. What are the colors in the A and B standard? 
+Ans: 4 color white/orange orange  white/green blue 
+
+Q15. Write an example of a block that has a  different color assigned to A & B standard.
+Ans. 4 color in a side and 4 color in other side of block 
+
