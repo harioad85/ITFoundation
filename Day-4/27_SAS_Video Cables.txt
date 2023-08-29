@@ -1,0 +1,69 @@
+27_SAS_On Video Cables
+Self-Assessment Sheet
+
+Q1. What does VGA stand for?
+Ans. Video graphics array 
+
+Q2.  What is the name of the connector associated with the VGA video format? 
+Ans: DE 15
+
+Q3. What are the PC System Design Guide Standards? 
+Ans: video only
+
+Q4. What color is associated with VGA? 
+Ans: Blue Color 
+
+Q5. If I am connecting a monitor using a VGA connection, do I need to have a separate audio connection? 
+Ans: yes
+
+Q6. What happens when you extend a VGA signal beyond 5 to 10 meters? 
+Ans: difficult to see screen
+
+Q7. What type of signal is a VGA signal? 
+Ans: Analog signals 
+
+Q8. What type of connector is the VGA connector on the back of a computer? 
+Ans: 15 pin connector back side of computer 
+
+Q9. What type of connection is HDMI? 
+Ans: video and audio stream 
+
+Q10. What does HDMI stand for?
+Ans. High definition multimedia interface
+
+Q11. What type of connector is used with HDMI? 
+Ans: 19 pin Type A 
+
+Q12. What types of video output does this video adapter support? 
+Ans: DVI
+
+Q13. What is DisplayPort? 
+Ans. Digital information sent in packetized form 
+
+Q14. What are the two types of DisplayPort interfaces? 
+Ans: HDMI and DVI
+
+Q15. How do you remove a DisplayPort interface? 
+Ans: push down the release mechanism 
+
+Q16. Is DisplayPort passively compatible with HDMI? 
+Ans: yes
+
+Q17. What type of cable is needed to connect a computer with a DisplayPort interface to a monitor with an HDMI interface?
+Ans: VGA cable 
+
+Q18. What does DVI stand for? 
+Ans: digital visual interface 
+
+Q19. How much throughput does a single link connection support? 
+Ans: 3.7 gbit ps 
+
+Q20. What does a dual link connection allow us to view? 
+Ans: HD television 5 
+
+Q21. What type of signals does DVI support? 
+Ans: analog and digital connection 	
+
+Q22. DVI is a video connection that pass any audio signals through the DVI connection. (True/False)
+Ans. True 
+ 
