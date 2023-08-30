@@ -1,0 +1,63 @@
+28_SAS On SATA Device Cables
+Self-Assessment Sheet
+
+Q1. What does SATA stand for? 
+Ans: serial AT attachment 
+
+Q2. What was the data transfer rate of SATA revision 1.0? 
+Ans: 1.5 Gbit/s 
+
+Q3. How fast is SATA revision 3.2? 
+Ans: 16 Gbit/s
+
+Q4. SATA revision 2.0 doubled that speed to __________ gigabits per second.
+Ans. 3 Gbit/s 
+
+Q5. What type of connection is used for external storage devices? 
+Ans: eSATA
+
+Q6. What is the maximum length of the SATA cable? 
+Ans: 2 meters 
+
+Q7. What type of connector is used for data transfer in a hard drive? 
+Ans: 7 pin connector is for data transfer 
+
+Q8. A larger ______ pin connector is used to power the device.
+Ans. 15 pin connector is for power connector 
+
+Q9. The hard drive also has a power connector for a ___________.
+Ans. Molex connector 
+
+Q10. How many cables are required to connect a storage device using a SATA connection? 
+Ans: 6 cables is for for storage device on motherboard 
+
+Q11. What type of connections are used for power and data? 
+Ans: one to one 
+
+Q12. What type of connectors does this motherboard have? 
+Ans: sata v2 and sata v 3 in different color 
+
+Q13. What are the colors of the SATA connections? 
+Ans: blue, yellow, and black
+
+Q14. What are the two types of connections needed to connect a storage device to a motherboard? 
+Ans: black and white 
+
+Q15. What is eSATA? 
+Ans: eSATA connector accessible from outside the computer , to provide a signal but not power connection for external storage device.
+
+Q16. What kind of cable is needed to connect an eSATA drive to a computer? 
+Ans: USB 3.0 to eSATA cable 
+
+Q17. If we look at a SATA interface on your motherboard, it has this _________ shape associated with it. 
+Ans. Different colors on motherboards
+
+Q18. What type of cables are needed to connect an internal SATA drive? 
+Ans: SATA 3 data cable and a sata power cable 
+
+Q19. What type of connection options are available for many external storage drives? 
+Ans: USB or Fire Wire connection or wirelessly 
+
+Q20. How do you connect an external storage device with an eSATA connection? 
+Ans: connect the sSATA cable from the back of the drive to the connector on your PC 
+
