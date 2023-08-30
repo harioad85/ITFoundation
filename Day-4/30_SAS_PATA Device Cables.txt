@@ -1,0 +1,55 @@
+30_SAS_PATA Device Cables
+Self-Assessment Sheet
+
+Q1. What is PATA? 
+Ans: parallel at attachement or ATA is for data cable which is attached motherboard to storage device.
+
+Q2. What other names has PATA been known by? 
+Ans: ATA or parallel ATA.
+
+Q3. The name AT Attachment comes from one of the original PCs created by _______.
+Ans. IBM
+
+Q4. What speeds can PATA achieve? 
+Ans: 16MB/s Through 133 MB/s
+
+Q5. What other types of drives can connect to PATA? 
+Ans: CD-ROM Drive.
+
+Q6. So although you may find motherboards and other equipment that are referring to an ATA drive or an IDE connection, today we refer to all of these as__________.
+Ans.  Parallel ATA (PATA)
+
+Q7. What type of connection is on one end of the PATA cables? 
+Ans: device 1 
+
+Q8. How many 40 pin connectors are on each cable? 
+Ans: 3 40pin connector in pata cable 
+
+Q9. How is the device order different on the 80 wire cable? 
+Ans: 80 wire cable attach the blue end connector to the system board the gray middle connector to slave  and black end connector to the master.
+
+Q10. What was the original PATA cable? 
+Ans: missing pin that is original PATA cable 
+
+Q11. How did they decrease crosstalk between wires? 
+Ans: increase the physical distance between cable pairs.
+
+Q12. How does an 80 wire cable differ from a 40 wire cable? 
+Ans: 80 wire cable is double of the 40 wire cable.
+
+Q13. The size of the PATA connector compared to the SATA connectors is large. (True/False)
+Ans. True 
+
+Q14. What is the purpose of the missing pin in the motherboard's PATA connector? 
+Ans: right format to connect cable to the connector.
+
+Q15. What do you need to look at to understand how a PATA cable works? 
+Ans: if you look at the end of the cable, there's a notch built into the PATA cable. And you can see in all of these PATA connector that we are so that you couldn't possible plug it in in the wrong orientation.
+
+Q16. What is the purpose of the notch on a PATA cable? 
+Ans: notch is used for disconnect cable in easy way 
+
+
+Q17. What type of connector is used for storage devices? 
+Ans: 40 pin metrical connector 
+
