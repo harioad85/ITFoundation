@@ -1,0 +1,43 @@
+36_SAS_On RAID 
+Self-Assessment Sheet
+
+Q1. What is used to store large amounts of information? 
+Ans: Data redundancy 
+
+
+Q2. What can happen to hard drives eventually? 
+Ans: hard drive are moving components.
+
+Q3. What can be done to ensure data remains available if a drive fails? 
+Ans: you can prepare for that use an array of drives.
+
+Q4. What is RAID? 
+Ans: they are also inexpensive disk 
+
+Q5. What does RAID stand for? 
+Ans: redundant array of independent disks 
+
+Q6. What is the difference between earlier versions of RAID and the current version? 
+Ans: 
+
+Q7. Do all RAID levels provide redundancy? 
+Ans: yes
+
+Q8. We referred to different types of RAID as ____________.
+Ans. 
+
+Q9. What is RAID 0 or striping? 
+Ans: files block are split between two or more physical drive.
+
+Q10. What is the benefit of splitting a single file across multiple drives? 
+Ans: high performance data written quickly 
+
+Q11. What is the problem with RAID 0? 
+Ans: redundancy 
+
+Q12. How is RAID 1 different from RAID 0? 
+Ans: different block of number 
+
+
+Q13. What is the benefit of having duplicate drives? 
+Ans: using mirors
