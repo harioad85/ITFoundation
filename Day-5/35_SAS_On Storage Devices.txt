@@ -1,0 +1,141 @@
+35_SAS On Storage Devices
+Self-Assessment Sheet
+Q1. What is a hard drive? 
+Ans: Hardware is storage device which save or store data in the hard drive.
+Q2. A hard drive consists of spinning _____________.
+Ans non volatile magnetic storage.
+
+Q3. Why are hard drives referred to as "non-volatile"? 
+Ans: rapidly rotating platters.
+
+Q4. Why do we refer to access on a hard drive as "random access."?
+Ans. Retrieve data from any part od the drive at any time.
+
+Q5. What are the components inside a hard drive? 
+Ans: Spinning platters, moving actuator arm .
+
+Q6. What is a limitation of hard drives? 
+Ans: the access speed.
+
+Q7. What is the eventual outcome of a hard drive? 
+Ans: 
+
+Q8. How does the data get stored and retrieved? 
+Ans Data from the computer in electrical form is stored onto the hard disk in magnetic form.
+
+Q9. What affects the speed of data retrieval? 
+Ans: indexing increase the efficiency of data retrieval
+
+Q10. If the drive is spinning faster, for example, at 15,000 rotations per minute, then the rotational latency lowers to about ________________.
+
+Ans 2 ms
+
+Q11. What does it mean if a common rotational speed for a low-end hard drive is 5,400 rotations per minute. And that gives you a rotational latency of about 5 and 1/2 milliseconds?
+Ans. 5.55 ms 
+
+Q12. What happens if the drive is spinning faster? 
+Ans: read and write data in the drive .
+
+Q13. What is the size of the hard drive in a larger desktop computer? 
+Ans: 3.5
+
+
+Q14. What is a solid-state drive? 
+Ans. Non volatile memory and no moving parts.
+
+Q15. Why do we use non- volatile memory in SSD?
+Ans. Data remain on the ssd.
+
+Q16. What is one significant advantage of an SSD? 
+Ans: not mechanical problem for read and write data in the storage.
+
+Q17. What type of interface is often used for hard drives? 
+Ans: Sata Interface . for laptop.
+
+Q18. What is the advantage of having a laptop or mobile device? 
+Ans: small size of hard disk.
+
+Q19. How does SATA limit the size of mobile devices? 
+Ans: 2.5
+
+Q20. What is mSATA? 
+Ans: this is mini SATA shrink the SATA drive into smaller device .
+
+
+Q21. What replaced the mSATA interface? 
+Ans: m.2 
+
+
+Q22. What is an example of a device that contains an mSATA drive? 
+Ans: that is smaller drive and save more space inside the system.
+Q23. How does the mSATA drive help reduce the overall size of devices? 
+Ans: much better 3.5 drive 
+
+Q24. AHCI stands for the__________________.
+Ans. Advanced host controller interface
+
+Q25. Why do we use AHCI?
+Ans. AHCI to move drive data to RAM.
+
+
+Q26. _____________uses a protocol known as AHCI.
+Ans. SATA 
+
+Q27. What is NVMe? 
+Ans: NON volatile Memory express designed for ssd speed.
+
+Q28. What is the throughput of SATA revision 3? 
+Ans: through output up to 600 MB/s
+
+Q29. What does lower latency and higher throughput mean? 
+Ans: take advantage of the NVMe.
+
+Q30. What are the advantages of using M.2 instead of SATA? 
+Ans: smaller farm factor.
+
+
+Q31. What kind of interface is M.2? 
+Ans: can use pci express bus connection.
+
+Q32. What type of throughput is typically seen when using an NVMe with an SSD through a by 4 PCIe interface? 
+Ans: x4
+
+Q33. What are the different keys in an M.2 interface? 
+Ans: B and M key
+
+Q34. What should you do to ensure the best possible throughput for an M.2-based SSD? 
+Ans:  M.2 doesn't guarantee NVMe your M.2 interface
+
+Q35. How do I install an M.2 drive on my motherboard? 
+Ans: slot ssd to the motherboard b then other side screw for ssd in motherboard.
+
+Q36. What does EEPROM stand for?
+Ans electrically erasable programmable read only memory like as flash memory.
+
+Q37. EEPROM is a type of _________ memory.
+Ans. Flash memory
+
+Q38. What are the advantages of flash memory? 
+Ans: no power required to retain data .
+
+Q39. What is one concern with flash memory? 
+Ans: non volatile memory
+
+Q40. Is it recommended to use flash drives as archival storage? 
+Ans: easy to lose or damage 
+
+Q41. What type of flash memory do cameras and other mobile devices use? 
+Ans: yes
+
+Q42. What type of storage is becoming increasingly difficult to find on our systems? 
+Ans: compact drive or sd drive .
+
+Q43. What does an optical drive use to read small pits or different colors on an optical disk? 
+Ans: small bumps read with a laser beam 
+
+Q44. What are some of the most popular formats of optical drives? 
+Ans: CDROM DVD ROM and blue ray 
+
+Q45. Are there external drives available for internal laptop or desktop use? 
+Ans: usb 
+
