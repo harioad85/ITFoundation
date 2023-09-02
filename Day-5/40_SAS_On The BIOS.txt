@@ -1,0 +1,69 @@
+40_SAS On The BIOS
+Self-Assessment Sheet
+
+Q1. What is BIOS?
+Ans: is program that control  the windows
+
+Q2. What does BIOS stand for?
+Ans.basic input/output system
+
+Q3.  BIOS is sometimes referred to as the ___________________.
+Ans. CPU
+
+Q4. Is the BIOS stored in Read Only Memory or ROM? 
+ANS: it's the same 
+
+Q5. When you power on your system, it initializes the ____________and the __________, and it begins executing the code of the BIOS.
+Ans. Memory and The CPU
+
+Q6. What is the post or power on self-test? 
+Ans: look for the boot loader 
+
+Q7. What will the BIOS do after the components are in place? 
+Ans: install the operation system
+
+Q8. What is the flash memory used for? 
+Ans: external flash 
+
+Q9. What does the BIOS configuration allow for? 
+Ans: upgrade the motherboard 
+
+Q10. What type of BIOS is found on older computers? 
+Ans: legacy BIOS 
+
+Q11. Is it possible to upgrade the capabilities of a legacy BIOS? 
+Ans. No 
+
+Q12. What does UEFI BIOS stand for?
+Ans. Unified extensible firmware interface 
+
+Q13. What is UEFI BIOS?
+Ans. Advance of the legacy bios 
+
+Q14. What is the most modern form of BIOS? 
+Ans. Graphical and text base.
+
+Q15. The EFI Standard is created by_________.
+Ans. intell
+
+Q16. What does the EFI standard stand for?
+Ans. Extensible  firmware interface
+
+Q17. What does the EFI standard do?
+Ans. Implemented by  the manufacturer
+
+Q18. The EFI Standard is designed to replace a ________________.
+Ans. Legacy bios 
+
+Q19. Are new computers using a UEFI BIOS? 
+Ans: yes
+
+Q20. What information can be found in the System Information section? 
+Ans: show advance system information 
+
+Q21. What can be done from the security area of a UEFI BIOS? 
+Ans: add a user and password security area in this section for bios 
+
+Q22. ___________________ allows you to install additional hardware drivers so that you can interact with other components that may be connected to your computer, such as a network interface card storage or any other hardware device on that system.
+Ans.UEFI
+
