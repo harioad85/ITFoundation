@@ -1,0 +1,72 @@
+39_SAS_On Motherboard Compatibility 
+Self-Assessment Sheet
+
+Q1. What is the first decision you need to make while building a computer? 
+Ans: intel and AMD 
+
+Q2. What factors should you consider when choosing a motherboard and CPU? 
+Ans: 2solid  CPU 
+
+Q3. Is it possible to switch between an Intel CPU and an AMD CPU? 
+Ans: yes
+
+Q4. What are the differences between AMD and Intel CPUs? 
+Ans: AMD is less expensive and CPU has different socket 
+
+Q5. What should be checked when selecting a CPU? 
+Ans: motherboard
+
+Q6. How do you install a CPU? 
+Ans: open the  lock and place down the chip
+
+Q7. Is there a different installation process for server CPUs? 
+Ans: yes uses multi socket 
+
+Q8. How many slots are available on a server motherboard? 
+Ans: 4 
+
+Q9. What type of device are server motherboards typically found in? 
+Ans: ATX
+
+Q10. What is typically installed in a rack-mounted device? 
+Ans: larger ATX size 
+
+Q11. What features are present in the older server motherboard? 
+Ans: 2 CPU extension slot and 4 slot for memory 
+
+Q12. What features are present in the newer motherboard? 
+Ans: its is similer to the older server its has 6 slot for memory
+
+
+Q13. What type of computer system do people generally have? 
+Ans: desktop motherboard 
+
+Q14. How many memory slots are usually available for additional RAM? 
+Ans: 2 or 4 
+
+Q15. Are there usually expansion slots available? 
+Ans: yes 
+
+Q16. What type of motherboard might be used for a very small form factor desktop system? 
+Ans: mini ITX
+
+Q17. What features are important in a laptop motherboard? 
+Ans: small and light 
+
+Q18. What is the focus of laptop CPUs? 
+Ans: limited in speed 
+
+Q19. What can one do with a desktop system that cannot be done with a laptop? 
+Ans: limited system modification memory and CPU and functionality
+
+Q20. How does laptop motherboard replacement differ from desktop motherboard replacement? 
+Ans: desktop motherboard is bigger then laptop 
+
+Q21. What do you have to do if you need to replace the motherboard in your Laptop? 
+Ans: motherboard needs to  fit in the laptop case 
+
+Q22. Since your interfaces, your CPU, your memory, and other features are part of that system board, if any part of that happens to stop working, you've got to replace the entire motherboard. (True/False)
+Ans. false
+
+
+
